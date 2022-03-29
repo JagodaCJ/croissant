@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  display: block;
+  font-size: 2em;
+  background-color: antiquewhite;
+}
+
+h1 {
+  text-decoration: solid;
+  font-size: large;
+}
+
+p {
+  font-size: medium;
+}
+
+h2 {
+  color: green;
+  font-size: medium;
+}
